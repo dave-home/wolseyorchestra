@@ -1,0 +1,129 @@
+body {
+	text-align:center;
+}
+h1 {
+	color:#006;
+}
+h2 {
+	color:#066;
+}
+h3,h4 {
+	color:#339;
+}
+img.mm {
+	height:66px;
+	width:78px;
+	border:none;
+}
+.concert {
+	margin: 10px 0 20px 0;
+}
+.blurb {
+	margin-top: 4px;
+	margin-bottom: 6px;
+	font-size: 1.2em;
+}
+.concert_title {
+	color: #003366;
+	font-size:large;
+}
+.date {
+	text-align:center;
+	color:#606;
+	font-size:medium;
+	font-weight:bold;
+	margin-bottom:10px;
+}
+.venue {
+	text-align:center;
+	color:#066;
+	font-size:normal;
+	font-weight:bold;
+	margin-bottom:10px;
+}
+.rehearsal {
+	text-align:center;
+	color:#063;
+	font-size:normal;
+	font-style:italic;
+	font-weight:normal;
+}
+.conductor {
+	text-align:center;
+	color:#033;
+	font-size:normal;
+	font-style:italic;
+	font-weight:bold;
+}
+.soloist {
+	text-align:center;
+	color:#033;
+	font-size:normal;
+	font-style:italic;
+	font-weight:bold;
+}
+.leader {
+	text-align:center;
+	color:#033;
+	font-size:normal;
+	font-style:italic;
+	font-weight:bold;
+}
+.items {
+	color: #066;
+	font-size: 1.4em;
+}
+.work {
+	text-align:left;
+	color:#366;
+	font-weight:normal;
+	font-size:medium;
+}
+.composer {
+	text-align:right;
+	color:#366;
+	font-weight:bold;
+	font-size:medium;
+}
+.author {
+	color:#789;
+	font-weight:bold;
+	text-align:right;
+}
+.duration {
+	color:#366;
+	text-align:left;
+	font-style:italic;
+	font-size:small;
+}
+.scoring {
+	color:#366;
+	text-align:left;
+	font-style:italic;
+	font-size:small;
+}
+.review {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.tickets {
+	/*text-align:center;*/
+}
+#aside {
+	/*text-align: center;*/
+	font-size: 8pt;
+}
+.thumbnail {
+	/*text-align: center;*/
+	margin-top:-10px;
+}
+ul {
+	list-style-position:inside;
+}
+.sidebar_item {
+	margin-top: 16px;
+	margin-bottom: 6px;
+}
+table {
+	font-size: 100%;
+}
