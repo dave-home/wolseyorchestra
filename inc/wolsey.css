@@ -72,8 +72,7 @@ img.mm {
 }
 .caption {
 	text-align:center;
-	color:#090;
-	font-size:medium;
+	font-size:normal;
 	font-style:italic;
 	font-weight:bold;
 }
