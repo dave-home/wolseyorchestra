@@ -175,14 +175,14 @@ img {
 	padding:10px;
 	margin:0;
 }
-#footer_right {
-	padding-top:3px;	
-	padding-right:5px;
-	float:right;
-}
-#footer_left {
-	padding-top:3px;
-	padding-left:10px;
-	float:left;
-}
+/*#footer_right {          */
+/*	padding-top:3px;   */
+/*	padding-right:5px; */
+/*	float:right;       */
+/*}                        */
+/*#footer_left {           */
+/*	padding-top:3px;   */
+/*	padding-left:10px; */
+/*	float:left;        */
+/*}                        */
 
