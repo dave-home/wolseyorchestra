@@ -28,6 +28,7 @@ p {
 	padding:0px;
 }
 img {
+	border:0
 	margin:0px 0 5px;
 }
 #ads img {
@@ -185,4 +186,3 @@ img {
 	padding-left:10px;
 	float:left;
 }
-
