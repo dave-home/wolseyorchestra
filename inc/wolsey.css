@@ -23,6 +23,11 @@ img.mm {
 	width:113px;
 	height:60px;
 }
+img.sm {
+	border:0;
+	width:45px;
+	height:45px;
+}
 .concert {
 	margin: 10px 0 20px 0;
 }
