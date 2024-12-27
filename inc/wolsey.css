@@ -10,10 +10,8 @@ h2 {
 h3,h4 {
 	color:#339;
 }
-img.mm {
-	height:66px;
-	width:78px;
-	border:none;
+img {
+	border:0;
 }
 .concert {
 	margin: 10px 0 20px 0;
