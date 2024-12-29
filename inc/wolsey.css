@@ -20,7 +20,7 @@ img {
 	border:0;
 }
 img.artist {
-	border:2px;
+	border:2px solid;
 	height:280px;
 	width:200px;
 }
@@ -41,7 +41,7 @@ img.mm {
 	width:113px;
 }
 img.poster {
-	border:2px;
+	border:2px solid;
 	height:594px;
 	width:420px;
 }
