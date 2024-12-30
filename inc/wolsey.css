@@ -2,19 +2,22 @@ body {
 	text-align:center;
 }
 h1 {
-	color:navy;
+	color:midnightblue;
 }
 h2 {
-	color:#066;
+	color:teal;
 }
 h3 {
-	color:#339;
+	color:steelblue;
 }
 a {
 	color:#369;
 }
 td {
         text-align:left;
+}
+ul {
+	list-style-position:inside;
 }
 img {
 	border:0;
@@ -55,7 +58,7 @@ img.sm {
 .blurb {
 	margin-top:4px;
 	margin-bottom:6px;
-	color:#063;
+	color:darkslategray;
 	font-size:normal;
 }
 .concert_title {
@@ -64,14 +67,14 @@ img.sm {
 }
 .date {
 	text-align:center;
-	color:#606;
+	color:purple;
 	font-size:medium;
 	font-weight:bold;
 	margin-bottom:10px;
 }
 .venue {
 	text-align:center;
-	color:#066;
+	color:teal;
 	font-size:normal;
 	font-weight:bold;
 	margin-bottom:10px;
@@ -116,13 +119,13 @@ img.sm {
 }
 .work {
 	text-align:left;
-	color:#366;
+	color:darkslategray;
 	font-weight:normal;
 	font-size:medium;
 }
 .composer {
 	text-align:right;
-	color:#366;
+	color:darkslategray;
 	font-weight:bold;
 	font-size:medium;
 }
@@ -132,13 +135,13 @@ img.sm {
 	text-align:right;
 }
 .duration {
-	color:#366;
+	color:darkslategray;
 	text-align:left;
 	font-style:italic;
 	font-size:small;
 }
 .scoring {
-	color:#366;
+	color:darkslategray;
 	text-align:left;
 	font-style:italic;
 	font-size:small;
@@ -157,9 +160,6 @@ img.sm {
 .thumbnail {
 	/*text-align: center;*/
 	margin-top:-10px;
-}
-ul {
-	list-style-position:inside;
 }
 .sidebar_item {
 	margin-top: 16px;
