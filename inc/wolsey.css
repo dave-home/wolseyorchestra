@@ -66,10 +66,12 @@ img.sm {
 /*	font-size:large;       */
 /*}                            */
 .blurb {
-	margin-top:4px;
-	margin-bottom:6px;
 	color:darkslategray;
-	font-size:normal;
+	font-size:12px;
+}
+.tickets {
+	color:black;
+	font-size:12px;
 }
 .date {
 	text-align:center;
@@ -154,9 +156,6 @@ img.sm {
 /*	margin-left:10px;  */
 /*	margin-right:10px; */
 /* }                       */
-/* .tickets {              */
-/*	text-align:center; */
-/*}                        */
 #aside {
 	/*text-align: center;*/
 	font-size: 8pt;
