@@ -74,7 +74,7 @@ img.sm {
 .date {
 	text-align:center;
 	color:purple;
-	font-size:medium;
+	font-size:16px;
 	font-weight:bold;
 	margin-bottom:10px;
 }
@@ -82,56 +82,56 @@ img.sm {
 	text-align:center;
 	text-decoration:none;
 	color:teal;
-	font-size:normal;
+	font-size:14px;
 	font-weight:bold;
 	margin-bottom:10px;
 }
-.rehearsal {
-	text-align:center;
-	color:#063;
-	font-size:normal;
-	font-style:italic;
-	font-weight:normal;
-}
+/* .rehearsal {             */
+/* 	text-align:center;  */
+/* 	color:#063;         */
+/* 	font-size:normal;   */
+/*	font-style:italic;  */
+/*	font-weight:normal; */
+/* }                        */
 .conductor {
 	text-align:center;
-	color:#033;
+	color:black;
 	font-style:italic;
 	font-weight:bold;
 }
 .soloist {
 	text-align:center;
-	color:#033;
+	color:black;
 	font-style:italic;
 	font-weight:bold;
 }
 .leader {
 	text-align:center;
-	color:#033;
+	color:black;
 	font-style:italic;
 	font-weight:bold;
 }
-.caption {
-	text-align:center;
-	font-size:normal;
-	font-style:italic;
-	font-weight:bold;
-}
-.items {
-	color: #066;
-	font-size: 1.4em;
-}
+/* .caption {              */
+/*	text-align:center; */
+/*	font-size:normal;  */
+/*	font-style:italic; */
+/*	font-weight:bold;  */
+/* }                       */
+/* .items {                */
+/*	color: #066;       */
+/*	font-size: 1.4em;  */
+/* }                       */
 .work {
 	text-align:left;
 	color:darkslategray;
 	font-weight:normal;
-	font-size:medium;
+	font-size:16px;
 }
 .composer {
 	text-align:right;
 	color:darkslategray;
 	font-weight:bold;
-	font-size:medium;
+	font-size:16px;
 }
 .author {
 	color:#789;
@@ -142,17 +142,17 @@ img.sm {
 	color:darkslategray;
 	text-align:left;
 	font-style:italic;
-	font-size:small;
+	font-size:14px;
 }
 .scoring {
 	color:darkslategray;
 	text-align:left;
 	font-style:italic;
-	font-size:small;
+	font-size:14px;
 }
 .review {
-	margin-left: 10px;
-	margin-right: 10px;
+	margin-left:10px;
+	margin-right:10px;
 }
 .tickets {
 	/*text-align:center;*/
