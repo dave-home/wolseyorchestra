@@ -95,19 +95,19 @@ img.sm {
 /* }                        */
 .conductor {
 	text-align:center;
-	color:black;
+	color:darkslategray;
 	font-style:italic;
 	font-weight:bold;
 }
 .soloist {
 	text-align:center;
-	color:black;
+	color:darkslategray;
 	font-style:italic;
 	font-weight:bold;
 }
 .leader {
 	text-align:center;
-	color:black;
+	color:darkslategray;
 	font-style:italic;
 	font-weight:bold;
 }
