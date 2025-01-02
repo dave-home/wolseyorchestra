@@ -58,18 +58,18 @@ img.sm {
 	height:45px;
 	width:45px;
 }
-.concert {
-	margin: 10px 0 20px 0;
-}
+/*.concert {                   */
+/*	margin: 10px 0 20px 0; */
+/*}                            */
+/*.concert_title {             */
+/*	color:#003366;         */
+/*	font-size:large;       */
+/*}                            */
 .blurb {
 	margin-top:4px;
 	margin-bottom:6px;
 	color:darkslategray;
 	font-size:normal;
-}
-.concert_title {
-	color:#003366;
-	font-size:large;
 }
 .date {
 	text-align:center;
@@ -86,13 +86,13 @@ img.sm {
 	font-weight:bold;
 	margin-bottom:16px;
 }
-/* .rehearsal {             */
-/* 	text-align:center;  */
-/* 	color:#063;         */
-/* 	font-size:normal;   */
-/*	font-style:italic;  */
-/*	font-weight:normal; */
-/* }                        */
+.rehearsal {
+	text-align:center;
+	color:darkslategray;
+	font-size:14px;
+	font-style:italic;
+	font-weight:normal;
+ }
 .conductor {
 	text-align:center;
 	color:darkslategray;
@@ -150,13 +150,13 @@ img.sm {
 	font-style:italic;
 	font-size:14px;
 }
-.review {
-	margin-left:10px;
-	margin-right:10px;
-}
-.tickets {
-	/*text-align:center;*/
-}
+/* .review {               */
+/*	margin-left:10px;  */
+/*	margin-right:10px; */
+/* }                       */
+/* .tickets {              */
+/*	text-align:center; */
+/*}                        */
 #aside {
 	/*text-align: center;*/
 	font-size: 8pt;
