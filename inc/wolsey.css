@@ -20,8 +20,8 @@ a {
 	color:#369;
 }
 table {
-	background-color:whitesmoke;
-	border: 1px solid;
+	background-color:white;
+	border:none;
 }
 td {
         text-align:left;
@@ -130,6 +130,7 @@ img.sm {
 	color:darkslategray;
 	font-weight:normal;
 	font-size:16px;
+	width:55%;
 }
 .composer {
 	text-align:right;
@@ -144,6 +145,7 @@ img.sm {
 	color:darkslategray;
 	font-weight:bold;
 	font-size:16px;
+	width:45%;
 }
 .author {
 	color:#789;
