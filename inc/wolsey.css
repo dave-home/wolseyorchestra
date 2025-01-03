@@ -20,9 +20,9 @@ a {
 	color:#369;
 }
 table {
+	align:center;
 	background-color:whitesmoke;
 	border:1px solid silver;
-	width:95%
 }
 table.full {
 	width:95%
