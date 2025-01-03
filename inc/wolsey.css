@@ -125,11 +125,25 @@ img.sm {
 /* }                       */
 .work {
 	text-align:left;
+	vertical-align:top;
+	color:darkslategray;
+	font-weight:normal;
+	font-size:16px;
+}
+.work2 {
+	text-align:left;
+	vertical-align:top;
 	color:darkslategray;
 	font-weight:normal;
 	font-size:16px;
 }
 .composer {
+	text-align:right;
+	color:darkslategray;
+	font-weight:bold;
+	font-size:16px;
+}
+.composer2 {
 	text-align:right;
 	color:darkslategray;
 	font-weight:bold;
