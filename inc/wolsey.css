@@ -21,7 +21,8 @@ a {
 }
 table {
 	background-color:whitesmoke;
-	border:none;
+	border:1px solid silver;
+	width:95%
 }
 td {
         text-align:left;
@@ -82,23 +83,19 @@ img.sm {
 	color:purple;
 	font-size:16px;
 	font-weight:bold;
-	margin-bottom:10px;
 }
 .venue {
 	text-align:center;
-	text-decoration:none;
 	color:darkgreen;
 	font-size:14px;
 	font-weight:bold;
-	margin-bottom:20px;
 }
 .rehearsal {
 	text-align:center;
 	color:darkslategray;
 	font-size:14px;
 	font-style:italic;
-	font-weight:normal;
- }
+}
 .conductor {
 	text-align:center;
 	color:darkslategray;
@@ -121,14 +118,12 @@ img.sm {
 	text-align:left;
 	vertical-align:top;
 	color:darkslategray;
-	font-weight:normal;
 	font-size:16px;
 }
 .work2 {
 	text-align:left;
 	vertical-align:top;
 	color:darkslategray;
-	font-weight:normal;
 	font-size:16px;
 	width:65%;
 }
@@ -148,19 +143,19 @@ img.sm {
 	width:35%;
 }
 .author {
+	text-align:right;
 	color:#789;
 	font-weight:bold;
-	text-align:right;
 }
 .duration {
-	color:darkslategray;
 	text-align:left;
+	color:darkslategray;
 	font-style:italic;
 	font-size:14px;
 }
 .scoring {
-	color:darkslategray;
 	text-align:left;
+	color:darkslategray;
 	font-style:italic;
 	font-size:14px;
 }
