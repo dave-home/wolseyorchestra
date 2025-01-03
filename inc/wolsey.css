@@ -24,6 +24,12 @@ table {
 	border:1px solid silver;
 	width:95%
 }
+table.full {
+	width:95%
+}
+table.narrow {
+	width:60%
+}
 td {
         text-align:left;
 }
