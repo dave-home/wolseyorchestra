@@ -169,6 +169,7 @@ p.tickets {
 }
 .duration {
 	text-align:left;
+	vertical-align:top;
 	color:darkslategray;
 	font-style:italic;
 	font-size:14px;
@@ -176,16 +177,12 @@ p.tickets {
 }
 .scoring {
 	text-align:left;
+	vertical-align:top;
 	color:darkslategray;
 	font-style:italic;
 	font-size:14px;
 	width:38%;
 }
-/*.author {                */
-/*	text-align:right;  */
-/*	color:#789;        */
-/*	font-weight:bold;  */
-/*}                        */
 #aside {
 	/*text-align: center;*/
 	font-size: 8pt;
@@ -198,6 +195,6 @@ p.tickets {
 	margin-top: 16px;
 	margin-bottom: 6px;
 }
-table {
-	font-size: 100%;
-}
+/*table {                  */
+/*	font-size: 100%;   */
+/*}                        */
