@@ -20,10 +20,10 @@ a {
 	color:#369;
 }
 table {
-	text-align:center;
-	align:center;
 	background-color:whitesmoke;
 	border:1px solid silver;
+	margin-left:auto;
+	margin-right:auto;
 }
 table.full {
 	width:95%
@@ -77,13 +77,14 @@ img.sm {
 /*	color:#003366;         */
 /*	font-size:large;       */
 /*}                            */
-.blurb {
+p {
 	color:darkslategray;
+}
+p.blurb {
 	font-size:12px;
 }
-.tickets {
-	color:black;
-	font-size:12px;
+p.tickets {
+	font-size:13px;
 }
 .date {
 	text-align:center;
