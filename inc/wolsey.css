@@ -85,13 +85,6 @@ img.sm {
 	height:45px;
 	width:45px;
 }
-/*.concert {                   */
-/*	margin: 10px 0 20px 0; */
-/*}                            */
-/*.concert_title {             */
-/*	color:#003366;         */
-/*	font-size:large;       */
-/*}                            */
 p {
 	color:darkslategray;
 }
@@ -137,25 +130,13 @@ p.tickets {
 	font-style:italic;
 	font-weight:bold;
 }
-.work {
-	text-align:left;
-	vertical-align:top;
-	color:darkslategray;
-	font-size:16px;
-}
-.work2 {
-	text-align:left;
-	vertical-align:top;
-	color:darkslategray;
-	font-size:16px;
-	width:65%;
-}
 .composer {
 	text-align:right;
 	vertical-align:top;
 	color:darkslategray;
 	font-weight:bold;
 	font-size:16px;
+	width:25%;
 }
 .composer2 {
 	text-align:right;
@@ -165,23 +146,39 @@ p.tickets {
 	font-size:16px;
 	width:35%;
 }
-.author {
-	text-align:right;
-	color:#789;
-	font-weight:bold;
+.work {
+	text-align:left;
+	vertical-align:top;
+	color:darkslategray;
+	font-size:16px;
+	width:33%;
+}
+.work2 {
+	text-align:left;
+	vertical-align:top;
+	color:darkslategray;
+	font-size:16px;
+	width:65%;
 }
 .duration {
 	text-align:left;
 	color:darkslategray;
 	font-style:italic;
 	font-size:14px;
+	width:4%;
 }
 .scoring {
 	text-align:left;
 	color:darkslategray;
 	font-style:italic;
 	font-size:14px;
+	width:38%;
 }
+/*.author {                */
+/*	text-align:right;  */
+/*	color:#789;        */
+/*	font-weight:bold;  */
+/*}                        */
 #aside {
 	/*text-align: center;*/
 	font-size: 8pt;
