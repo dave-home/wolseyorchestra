@@ -19,6 +19,16 @@ h3 {
 a {
 	color:#369;
 }
+hr {
+	margin-bottom:20px;
+	margin-top:20px;
+}
+hr.normal {
+	width:25%;
+}
+hr.narrow {
+	width:10%;
+}
 table {
 	margin-left:auto;
 	margin-right:auto;
