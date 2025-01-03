@@ -23,6 +23,13 @@ hr {
 	margin-bottom:20px;
 	margin-top:20px;
 }
+p {
+	text-align:center;
+}
+p.warn {
+	color:red;
+	font-weight:bold;
+}
 hr.normal {
 	width:25%;
 }
