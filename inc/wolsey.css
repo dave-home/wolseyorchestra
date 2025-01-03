@@ -19,6 +19,9 @@ h3 {
 a {
 	color:#369;
 }
+table {
+	bgcolor:gainsboro;
+}
 td {
         text-align:left;
 }
