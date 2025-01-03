@@ -29,6 +29,9 @@ hr.normal {
 hr.narrow {
 	width:10%;
 }
+hr.full {
+	width:50%;
+}
 table {
 	margin-left:auto;
 	margin-right:auto;
