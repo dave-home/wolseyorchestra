@@ -125,15 +125,15 @@ img.sm {
 	height:45px;
 	width:45px;
 }
-p {
-	color:darkslategray;
-}
-p.blurb {
-	font-size:12px;
-}
-p.tickets {
-	font-size:13px;
-}
+/* p {                       */
+/* 	color:darkslategray; */
+/* }                         */
+/* p.blurb {                 */
+/* 	font-size:12px;      */
+/* }                         */
+/* p.tickets {               */
+/* 	font-size:13px;      */
+/* }                         */
 .date {
 	text-align:center;
 	color:purple;
