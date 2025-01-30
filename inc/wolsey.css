@@ -25,6 +25,7 @@ hr {
 }
 p {
 	text-align:center;
+ 	color:darkslategray;
 }
 p.warn {
 	color:red;
@@ -128,12 +129,12 @@ img.sm {
 /* p {                       */
 /* 	color:darkslategray; */
 /* }                         */
-/* p.blurb {                 */
-/* 	font-size:12px;      */
-/* }                         */
-/* p.tickets {               */
-/* 	font-size:13px;      */
-/* }                         */
+.blurb {
+	font-size:12px;
+}
+.tickets {
+	font-size:13px;
+}
 .date {
 	text-align:center;
 	color:purple;
